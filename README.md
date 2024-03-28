@@ -30,7 +30,7 @@ I am a software engineer at [Elucidata](https://elucidata.io/), where I speciali
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   </a>
   <a href="https://www.sql server.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    <img src="https://img.shields.io/badge/sql server-%232496ED.svg?style=flat-square&logo=sql server&logoColor=white" alt="Docker">
   </a>
   <a href="https://github.com/features/actions" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
