@@ -1,27 +1,41 @@
-<h1 align="center">Samar abdelnaby Ahmed
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sql" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
 
+# Hi 👋 I am Samar abdelnaby Ahmed! 
+I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
 
+- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
+- ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
 
-<!--
-**Samar-Abdelnaby /Samar-Abdelnaby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white" alt="R">
+  </a>
+  <a href="https://www.javascript.com/" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://html.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+  </a>
+  <a href="https://www.c#.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  </a>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS">
+  </a>
+</p>
